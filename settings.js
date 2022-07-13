@@ -14,7 +14,7 @@ global.APIs = {
 
 //Api Key\\
 global.APIKeys = {
-	'https://zenzapis.xyz': 'sanzychan01', //credit goes to sanzy yt, if api key expire, buy it and put it here?\\
+	'https://zenzapis.xyz': 'sanzychan02', //credit goes to sanzy yt, if api key expire, buy it and put it here?\\
 }
 
 //customize settings\\
@@ -36,10 +36,10 @@ global.region = 'India, South India, Kerala' //Country Region
 
 global.packname = '𝐑𝐄𝐃 𝐃𝐑𝐀𝐆𝐎𝐍' //Bot Pacage Name
 global.author = '🅑🅨 🅢🅐🅓🅤🅦🅐' //Author Name
-global.prefa = [''☹️'!'😡'😭','😂','❤️','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
+global.prefa = ['''!''','','❤️','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sessionName = 'session' //Session Name!
 global.sp = '⭔' //A Charactor
-global.dragonemoji = '✵' // Menu emoji
+global.dragonemoji = '❮❖❯' // Menu emoji
 global.footer = '©_🅢🅐🅓🅤🅦🅐.' //In list menu
 global.chatbotpre = 'true'  // Chat bot true/false
 
