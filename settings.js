@@ -29,7 +29,7 @@ global.ownernomer = '+94766358525' //Owner Number <<<
 global.ownername = '𝚜𝚊𝚍𝚞𝚠𝚊©.' //Owner Name
 global.botname = ' 🔥⭕𝐑𝐄𝐃 𝐃𝐑𝐀𝐆𝐎𝐍🔥⭕' //Bot Name
 
-global.button = '🤭Youtube📍' //Costomize A Button Name In Alive Message
+global.button = 'Youtube📍' //Costomize A Button Name In Alive Message
 global.btnurl = 'https://youtu.be/E5C-lrl_g9I' //Change Your Button's URL
 
 global.region = 'India, South India, Kerala' //Country Region
@@ -41,7 +41,7 @@ global.sessionName = 'session' //Session Name!
 global.sp = '⭔' //A Charactor
 global.dragonemoji = '♦️' // Menu emoji
 global.footer = '©_𝚜𝚊𝚍𝚞𝚠𝚊.' //In list menu
-global.chatbotpre = 'true'  // Chat bot true/false
+global.chatbotpre = 'false'  // Chat bot true/false
 
 global.ig = 'https://github.com/prabhasha2006' //Github Account!
 
